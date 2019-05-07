@@ -1,0 +1,10 @@
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\bin\Debug\LinkedList_Assignment.exe.config
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\bin\Debug\LinkedList_Assignment.exe
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\bin\Debug\LinkedList_Assignment.pdb
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\obj\Debug\LinkedList_Assignment.csprojResolveAssemblyReference.cache
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\obj\Debug\LinkedList_Assignment.Form1.resources
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\obj\Debug\LinkedList_Assignment.Properties.Resources.resources
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\obj\Debug\LinkedList_Assignment.csproj.GenerateResource.Cache
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\obj\Debug\LinkedList_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\obj\Debug\LinkedList_Assignment.exe
+C:\Users\jbolo\source\repos\LinkedList_Assignment\LinkedList_Assignment\obj\Debug\LinkedList_Assignment.pdb
